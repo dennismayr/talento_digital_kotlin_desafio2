@@ -1,4 +1,7 @@
-# Descripción
+<img align="center" src="https://imgur.com/fBe4l4F.png" alt="Desafio LatAm">
+
+# Desafío 2: Biblioteca
+## Descripción
 
 Soluciones Systems es  una  empresa de  desarrollo de  software con  20  años  en  la  industria del software para colegios.
 
