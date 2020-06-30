@@ -1,14 +1,5 @@
 /*
-Los datos que deben almacenar son:
-
-* Nombre del libro
-* ISBN
-* Año publicación
-* Editorial
-* Cantidad de páginas
-* Precio
-* Autor del libro
-* Tipo de libro (D: Digital / I: Impreso)
+* Desafío 2: Biblioteca
 */
 
 // 5.
