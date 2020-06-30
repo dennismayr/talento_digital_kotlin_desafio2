@@ -183,11 +183,3 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
-
-Sera borrado .idea/.gitignore
-Sera borrado .idea/kotlinc.xml
-Sera borrado .idea/misc.xml
-Sera borrado .idea/modules.xml
-Sera borrado .idea/vcs.xml
-Sera borrado DesafioKotlin2-Biblioteca.iml
-Sera borrado src/
