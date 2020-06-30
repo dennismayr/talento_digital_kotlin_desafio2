@@ -3,7 +3,7 @@
 # Desafío 2: Biblioteca
 ## Descripción
 
-Soluciones Systems es  una  empresa de  desarrollo de  software con  20  años  en  la  industria del software para colegios.
+Soluciones Systems es una empresa de desarrollo de software con 20 años en la industria del software para colegios.
 
 Siendo una industria pionera y antigua, están en búsqueda de un desarrollador de software que pueda modernizar sus desarrollos utilizando Kotlin como lenguaje de programación, ya que ellos desde siempre utilizan Java y para poder contratar a la persona indicada ellos buscan resolver el siguiente desafío.
 
