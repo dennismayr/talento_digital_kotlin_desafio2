@@ -8,8 +8,9 @@ fun main() {
 }
 
 // 3.
-fun LibrosEscolares.formateaPrecio(): String {
-    return "$${this.precio}"
+fun formateaPrecio(precioLibro: Int): String {
+    return "$${precioLibro}"
+// al llamar a este metodo, se puede pasar e.g. libro1.precio,
 }
 
 // 4.
