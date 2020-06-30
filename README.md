@@ -4,15 +4,7 @@ Soluciones Systems es  una  empresa de  desarrollo de  software con  20  años  
 
 Siendo una industria pionera y antigua, están en búsqueda de un desarrollador de software que pueda modernizar sus desarrollos utilizando Kotlin como lenguaje de programación, ya que ellos desde siempre utilizan Java y para poder contratar a la persona indicada ellos buscan resolver el siguiente desafío.
 
-Crear un sistema en Kotlin que permita almacenar información de libros escolares.Los datos que deben almacenar son:
-
-* Nombre del libro
-* ISBN
-* Año publicación
-* Editorial
-* Cantidad de páginas
-* PrecioAutor del libro
-* Tipo de libro (D: Digital / I: Impreso)
+Crear un sistema en Kotlin que permita almacenar información de libros escolares.
 
 Este sistema debe tener una funcionalidad que permita devolver el precio con el signo **$** en cualquier parte del proyecto.
 
