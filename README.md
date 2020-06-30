@@ -1,4 +1,4 @@
-<img align="center" src="https://imgur.com/fBe4l4F.png" alt="Desafio LatAm">
+<img align="center" src="https://imgur.com/fBe4l4F.png" alt="Desafio LatAm" max-width="100%" max-height="auto">
 
 # Desafío 2: Biblioteca
 ## Descripción
