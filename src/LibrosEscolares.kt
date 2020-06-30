@@ -7,5 +7,5 @@ data class LibrosEscolares(
     var cantPaginas: Int,
     var precio: Int,
     var autorLibro: String,
-    var formatoDeLibro: String
+    val formatoDeLibro: String
 )
